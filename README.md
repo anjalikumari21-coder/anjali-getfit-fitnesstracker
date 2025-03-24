@@ -37,7 +37,7 @@ GetFit is a **comprehensive personal fitness tracking application** designed to 
    ```
 4. **Run the Application**
    ```sh
-   streamlit run app.py
+   streamlit run fit.py
    ```
 
 ## 📝 Future Enhancements
