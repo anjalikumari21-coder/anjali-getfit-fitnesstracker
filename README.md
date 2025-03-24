@@ -1,4 +1,4 @@
-# anjali-getfit-fitnesstracker
+
 # GetFit - Personal Fitness Tracker
 
 ## 📌 Overview
